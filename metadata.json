@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Benchmark Suite",
+  "description": "An interactive capabilities testbench showcasing real-time physics simulations, algorithmic benchmarks, dynamic data engines, and full-stack software architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
